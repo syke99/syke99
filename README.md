@@ -43,7 +43,7 @@ And several more!!
 
 ## My Profile Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=syke99&theme=onedark)](https://github.com/GNRain/github-profile-trophy)
-
+![](https://komarev.com/ghpvc/?username=syke99&color=blue)
 <!--
 **syke99/syke99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
