@@ -2,14 +2,14 @@
 
 My name is Quinn Millican.
 I am a backend software engineer and avid Gopher, thus, while I know a handful of languages, the one I use most predominately is Go.
+😄 My pronouns: she/her
+
 
 🔭 I’m currently working on: [waggy](https://github.com/syke99/waggy), the dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go
 
 ## Waggy's Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=syke99/waggy&type=Date)](https://star-history.com/#syke99/waggy&Date)
-
-😄 My pronouns: she/her
 
 ## My Toolbox of Skills 
 <table><tr><td valign="top" width="33%">
