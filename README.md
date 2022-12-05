@@ -41,8 +41,10 @@ And several more!!
 
 </br>
 
-## My Profile Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=syke99&theme=onedark)](https://github.com/GNRain/github-profile-trophy)
+## Github Stats  
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=syke99&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+</div>  
 
 <!--
 **syke99/syke99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
