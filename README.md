@@ -2,6 +2,7 @@
 
 My name is Quinn Millican.
 I am a backend software engineer and avid Gopher, thus, while I know a handful of languages, the one I use most predominately is Go.
+
 😄 My pronouns: she/her
 
 
