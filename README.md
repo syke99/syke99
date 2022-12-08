@@ -39,14 +39,6 @@ I am a backend software engineer and avid Gopher, thus, while I know a handful o
 
 And several more!!
 
-
-</br>
-
-## Github Stats  
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=syke99&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
-</div>  
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=syke99&&style=flat-square" align="center" />
 </div>  
