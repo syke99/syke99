@@ -10,7 +10,7 @@ I am a backend software engineer and avid Gopher, thus, while I know a handful o
 
 ## Waggy's Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=syke99/waggy&type=Date)](https://star-history.com/#syke99/waggy&Date)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=syke99/waggy&type=Date)](https://star-history.com/#syke99/waggy&Date) -->
 
 ## My Toolbox of Skills 
 <table><tr><td valign="top" width="33%">
