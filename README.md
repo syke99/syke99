@@ -6,7 +6,10 @@ I am a backend software engineer and avid Gopher, thus, while I know a handful o
 😄 My pronouns: she/her
 
 
-🔭 I’m currently working on: [waggy](https://github.com/syke99/waggy), the dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go
+🔭 I’m currently working on: 
+- [waggy](https://github.com/syke99/waggy), the dead simple, easy-to-use library for writing WAGI (Web Assembly Gateway Interface) API handlers in Go
+- [xtractr](https://github.com/syke99/xtractr), for unmarshaling path and query parameters from an incoming HTTP request directly to Go structs
+- Odin SDK for [Extism](https://github.com/extism/extism), "The Universal Plug-in System. Extend anything with WebAssembly."
 
 <!-- ## Waggy's Star History -->
 
