@@ -11,6 +11,7 @@ I am a backend software engineer and avid Gopher, thus, while I know a handful o
 - [xtractr](https://github.com/syke99/xtractr), for unmarshaling path and query parameters from an incoming HTTP request directly to Go structs
 - Odin [SDK](https://github.com/extism/extism/pull/212) for [Extism](https://github.com/extism/extism), "The Universal Plug-in System. Extend anything with WebAssembly."
 - [hx-gql](https://github.com/syke99/hx-gql), an extension to use gql endpoints + custom result handlers with [HTMX](https://github.com/bigskysoftware/htmx)
+- project not ready to be announced (native apps in... go? 👀)
 
 <!-- ## Waggy's Star History -->
 
